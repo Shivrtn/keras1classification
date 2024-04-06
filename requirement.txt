@@ -1,6 +1,6 @@
 keras
 numpy
-cv2
+opencv-python
 flask
 os
 flask_cors
