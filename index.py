@@ -7,7 +7,7 @@
 import keras
 import numpy as np
 import cv2
-model=keras.models.load_model('footbal_cat_model.keras')
+# model=keras.models.load_model('footbal_cat_model.keras')
 # from flask import Flask, request, jsonify
 # import os
 # from flask_cors import CORS
